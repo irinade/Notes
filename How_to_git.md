@@ -8,3 +8,5 @@
 - git commit -am "$comment"
 - `man git status`
 
+- git pull #import the all history of an existing file
+
